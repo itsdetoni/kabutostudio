@@ -77,7 +77,7 @@ const Index = () => (
             bg="linear-gradient(to right, #F7971E 0%, #FFD200 100%)"
           >
             Projeto completo de social media para uma equipe de CS:GO
-            profissional, a Black Dragon E-Sports.
+            profissional, a Black Dragons E-Sports.
           </ProjectCard>
           <ProjectCard
             title="Anime T-Shirt"
