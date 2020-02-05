@@ -63,6 +63,7 @@ const Index = () => (
     <Layout />
     <Parallax pages={5}>
       <Hero offset={0}>
+        <img src="https://i.imgur.com/2IEDFV5.png" alt="drawing" width="250" />
         <BigTitle>Kabuto Studio</BigTitle>
         <Subtitle>
           Nós criamos experiências digitais centradas no consumidor moderno.
@@ -107,7 +108,7 @@ const Index = () => (
       <About offset={3}>
         <Title>Sobre nós</Title>
         <AboutHero>
-          <Avatar src={avatar} alt="John Doe" />
+          <Avatar src={avatar} alt="Kabuto Studio" />
           <AboutSub>
             <i>"Kabuto? Mas que raios é Kabuto?"</i>
           </AboutSub>
